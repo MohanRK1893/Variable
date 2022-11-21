@@ -20,6 +20,10 @@ public class Test {
 		private void m3() {
 			
 		}
+		private void m4() {
+			// TODO Auto-generated method stub
+
+		}
 		public static void main(String[] args)
 		{
 		Test T1 =new Test();
